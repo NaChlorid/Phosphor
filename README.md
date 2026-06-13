@@ -1,0 +1,3 @@
+<img width="1920" height="1440" alt="Introducing phosphor." src="https://github.com/user-attachments/assets/29ed6dc5-4b6b-4b8f-847a-75fa8ca50d9d" />
+<img width="1920" height="1440" alt="Features you'd love: Same consistent design; Background changer; More coming soon..." src="https://github.com/user-attachments/assets/4b10fd4b-dd3b-43c5-9d72-0d8d106b6848" />
+<img width="1920" height="1440" alt="Introducing: Background chaner; You hate our default theme? Then just change it; Remember, you have unlimited possibilities" src="https://github.com/user-attachments/assets/b2dd3daa-45c4-4260-99d6-b31dc682fb61" />
