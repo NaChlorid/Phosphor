@@ -1,0 +1,14 @@
+body,
+.wrapper,
+.content-wrapper,
+.skin-blue .wrapper,
+.skin-blue .content-wrapper {
+    background-image: var(--theme-bg-image) !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-color: transparent !important;
+}
+
+

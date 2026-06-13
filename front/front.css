@@ -1,0 +1,69 @@
+body,
+.wrapper,
+.content-wrapper,
+.skin-blue .wrapper,
+.skin-blue .content-wrapper {
+  background-image: var(--theme-bg-image) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-color: transparent !important;
+}
+
+a.GreyRowBox-sc-1xo9c6v-0,
+button.style-module_4LBM1DKx,
+div.style-module_2Vp6MaXq,
+.GreyRowBox-sc-1xo9c6v-0 {
+  border-radius: 100px;
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+
+.style-module_1n_DiqmT,
+.peer,
+#NavigationBar,
+#SubNavigation,
+div.style-module_2XbmHEcn,
+div.style-module_1WqkLT9X,
+input,
+textarea,
+.SettingsContainer___StyledTitledGreyBox-sc-1e5ycmz-3,
+.RenameServerBox___StyledTitledGreyBox-sc-1bh2mfg-0,
+.SettingsContainer___StyledTitledGreyBox2-sc-1e5ycmz-10,
+.ReinstallServerBox___StyledTitledGreyBox-sc-1prmksw-0,
+.AccountOverviewContainer__Container-sc-12to0iy-0 > div > div,
+.AccountApiContainer___StyledContentBox-sc-1c4s3nm-1 > div,
+.AccountApiContainer___StyledContentBox2-sc-1c4s3nm-2 > div,
+.AccountSSHContainer___StyledContentBox-sc-yksipt-1 > div,
+.LoginFormContainer___StyledDiv-sc-cyh04c-3,
+.AccountSSHContainer___StyledContentBox2-sc-yksipt-2 > div,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7 {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+
+.Modal___StyledDiv2-sc-9vzni8-3 {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+
+.xterm-viewport {
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+
+#NavigationBar {
+  margin: 10px 10px 0 10px;
+  width: auto;
+  border-radius: 10px;
+}
+#SubNavigation {
+  margin: -1px 17px 0px 17px;
+  width: auto;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.status-bar {
+  margin-left: 5px;
+}
